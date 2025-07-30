@@ -1,4 +1,4 @@
-# 📝 Handwriting Neural Network (MNIST CNN)
+# 📝 Handwriten Digits Neural Network (MNIST CNN)
 
 This project implements a **Convolutional Neural Network (CNN)** to classify handwritten digits using the **MNIST dataset**.  
 It includes a custom data loader for raw IDX files, a TensorFlow/Keras CNN model, and performance visualizations like training curves and a confusion matrix.
